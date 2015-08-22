@@ -1,4 +1,4 @@
-This project was about building an recipes box using
+This project was about building a recipes box using
 **Ruby on Rails**, gems i.e. **Paperclip**, **Simple-form**, **Bootstrap-SASS**, custom **HTML/CSS/SASS**,
 
 ####Key learnings:
