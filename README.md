@@ -1,5 +1,5 @@
 This project was about building an recipes box using
-**Ruby on Rails**, **gems i.e. Paperclip, Simple-form, Bootstrap-SASS**, **custom HTML/CSS/SASS**,
+**Ruby on Rails**, gems i.e. **Paperclip**, **Simple-form**, **Bootstrap-SASS**, custom **HTML/CSS/SASS**,
 
 ####Key learnings:
 
@@ -8,5 +8,5 @@ This project was about building an recipes box using
 - SASS for CSS preprocessing
 
 ####Preview
-![recipe-box screenshot](https://github.com/maciejk77/recipe-box/)
+![recipe-box screenshot](https://github.com/maciejk77/recipe-box/blob/master/img/screenshot.png)
 
